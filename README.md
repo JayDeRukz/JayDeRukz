@@ -4,7 +4,7 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "[Your Name]"
+        self.name = "[Rookie_xR]"
         self.role = "Developer"
         self.skills = ["Python", "JavaScript", "HTML", "CSS"]
     
