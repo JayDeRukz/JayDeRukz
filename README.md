@@ -15,7 +15,7 @@ Welcome to my futuristic GitHub profile! 🌌✨
 
 ## 🧾 My Pinned Repos
 <!-- Use GitHub pinned repos in your profile UI, or list here -->
-- [Project-A](https://github.com/JayDeRukz/project-a) — Mini theater with Arduino 🎛️
+- [Project-A](https://github.com/JayDeRukz/scientificCalculatorForStatistics) — Scientific calculator for basic statistics 🎛️
 - [IMS](https://github.com/JayDeRukz/ims) — Inventory system in C# 🧾
 
 ## 👇 Visitor Count
