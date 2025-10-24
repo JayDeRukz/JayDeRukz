@@ -15,8 +15,8 @@ Welcome to my futuristic GitHub profile! 🌌✨
 
 ## 🧾 My Pinned Repos
 <!-- Use GitHub pinned repos in your profile UI, or list here -->
-- [Project-A](https://github.com/JayDeRukz/scientificCalculatorForStatistics) — Scientific calculator for basic statistics 🎛️
-- [IMS](https://github.com/JayDeRukz/ims) — Inventory system in C# 🧾
+- [Scintific Calculator](https://github.com/JayDeRukz/scientificCalculatorForStatistics) — Scientific calculator for basic statistics 🎛️
+- [IMS](https://github.com/JayDeRukz/retailStoreManagementSystem) — Inventory system in C# 🧾
 
 ## 👇 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/JayDeRukz/count.svg)
